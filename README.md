@@ -24,13 +24,13 @@ Bitxel Roads is an ERC721A-based NFT collection with a total supply of 4,444 tok
    - Requires OG List access
 
 2. **GTD Phase**
-   - Supply: 1,000 NFTs
+   - Supply: NFTs
    - Price: Free
    - Limit: 1 NFT per wallet
    - Requires GTD List access
 
 3. **FCFS Phase**
-   - Supply: 500 NFTs
+   - Supply: NFTs
    - Price: Configurable
    - Limit: 3 NFTs per wallet
    - Requires FCFS List access
